@@ -1,0 +1,40 @@
+.main-footer{
+    color: white;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: rgb(215, 194, 122);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    
+
+}
+
+.container{
+    box-sizing: border-box;
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+.deatailsHead{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    font-weight: 1000;
+    display: inline;
+}
+
+.list{
+    justify-content: space-evenly;
+    display: inline;
+    
+
+}
